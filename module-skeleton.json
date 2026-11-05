@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-playbooks-and-enablement-nextjs",
+  "capabilityKey": "liberusoftware/module-crm-playbooks-and-enablement",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-crm-playbooks-and-enablement-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/crm/nextjs/playbooks-and-enablement.md",
+  "presentationPlan": "projects/crm/nextjs/playbooks-and-enablement.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
